@@ -1,0 +1,14 @@
+﻿---
+ID: "9b129774-d73b-42db-84ed-b07d018aeaea"
+Parent: "ff75c9b1-4056-449e-aace-223e35ccf53c"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/User Defined/SitecoreMvp/Modules/ContactForm/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170511T111927Z

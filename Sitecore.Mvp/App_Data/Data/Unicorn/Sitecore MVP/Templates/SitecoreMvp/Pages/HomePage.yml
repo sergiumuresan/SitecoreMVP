@@ -1,0 +1,22 @@
+﻿---
+ID: "d7ef2bd5-44ce-42f3-bd10-b4873cbb2d63"
+Parent: "55c5335c-a415-4da8-be13-a9d8edd39970"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/User Defined/SitecoreMvp/Pages/HomePage
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Network/32x32/home.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: "{2C8E5F42-7C29-44DA-95A9-D18ED669DB07}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170511T071640Z

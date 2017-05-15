@@ -1,0 +1,34 @@
+﻿---
+ID: "ff04703e-7796-40db-bd02-86913dc3e9c3"
+Parent: "ff75c9b1-4056-449e-aace-223e35ccf53c"
+Template: "ff75c9b1-4056-449e-aace-223e35ccf53c"
+Path: /sitecore/templates/User Defined/SitecoreMvp/Modules/ContactForm/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d812c3f-00ba-48a4-839e-4d6551fca2b2"
+      Hint: ErrorMessage
+      Value: There was an error. Please try again.
+    - ID: "1a7b3ae7-5719-4dff-b4bf-ced03e727db8"
+      Hint: Name
+      Value: Name
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170511T112009Z
+    - ID: "2b584753-0dd9-4ba1-a9dd-24c0895808a5"
+      Hint: Submit
+      Value: |
+        <link text="Submit" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" />
+    - ID: "35b5bb6a-d3d6-4797-8618-1c698ffb3d95"
+      Hint: Title
+      Value: Title
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "f6c8e37a-a6ce-4052-87e4-c0ca286c6371"
+      Hint: Email
+      Value: Email

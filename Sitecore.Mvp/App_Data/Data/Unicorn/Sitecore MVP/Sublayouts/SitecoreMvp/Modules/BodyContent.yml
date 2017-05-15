@@ -1,0 +1,24 @@
+﻿---
+ID: "5104f2f6-d3f7-475f-8353-5315abd950ad"
+Parent: "69ee976e-4d61-4896-ac65-ab9a65d5177d"
+Template: "0a98e368-cdb9-4e1e-927c-8e0c24a003fb"
+Path: /sitecore/layout/Sublayouts/SitecoreMvp/Modules/BodyContent
+DB: master
+SharedFields:
+- ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+  Hint: Datasource Template
+  Value: /sitecore/templates/User Defined/SitecoreMvp/Modules/BodyContent
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+  Hint: Datasource Location
+  Value: 
+- ID: "e42081b6-8a95-4a11-89ce-df70ed502f57"
+  Hint: Path
+  Value: /layouts/SitecoreMvp/Modules/BodyContent.ascx
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170511T105919Z

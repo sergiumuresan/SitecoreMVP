@@ -1,0 +1,14 @@
+﻿---
+ID: "b579c875-192a-4a2e-8801-119c116b9957"
+Parent: "168c138d-c882-45d4-a78f-fad9d4f5e6bb"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/User Defined/SitecoreMvp/Base
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170511T071036Z

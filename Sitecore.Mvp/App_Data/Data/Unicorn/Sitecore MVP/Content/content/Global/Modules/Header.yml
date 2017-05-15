@@ -1,0 +1,17 @@
+﻿---
+ID: "65c4ccb0-f677-442e-b89f-6aed833a8b1a"
+Parent: "135f766f-0240-4eb8-869b-1e75d968c690"
+Template: "5102c434-d64d-405c-948f-7b74ed2f1612"
+Path: /sitecore/content/Global/Modules/Header
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170511T092410Z
+    - ID: "a628e5bb-2624-4750-90f7-7a811bd1da16"
+      Hint: Title
+      Value: Sitecore MVP 1

@@ -1,0 +1,18 @@
+﻿---
+ID: "dbb18916-6bad-4780-9139-c89ba38d7b77"
+Parent: "d109356f-6c5b-4115-8f91-47ed5eb0b804"
+Template: "8fa7894a-d600-4c58-b73c-51bbaaa1d98d"
+Path: /sitecore/content/Global/Shared Content/About Sitecore
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170511T111259Z
+    - ID: "a6d9a597-0da3-44a7-add2-7d71dcc4204a"
+      Hint: Content
+      Value: |
+        <img alt="" width="100%" src="-/media/04DAD0FDDB664070881F17264CA257E1.ashx" />

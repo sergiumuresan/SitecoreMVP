@@ -1,0 +1,18 @@
+﻿---
+ID: "167e1046-c870-4597-914f-55a759b6a167"
+Parent: "778c0ac9-46eb-4234-b78d-2bc0cceae95d"
+Template: "3a45a723-64ee-4919-9d41-02fd40fd1466"
+Path: /sitecore/layout/Layouts/SitecoreMvp/DefaultLayout
+DB: master
+SharedFields:
+- ID: "a036b2bc-ba04-44f6-a75f-bae6cd242abf"
+  Hint: Path
+  Value: /layouts/SitecoreMvp/DefaultLayout.aspx
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170511T063903Z

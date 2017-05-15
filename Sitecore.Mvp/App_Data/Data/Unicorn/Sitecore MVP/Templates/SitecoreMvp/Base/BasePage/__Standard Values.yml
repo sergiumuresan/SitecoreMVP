@@ -1,0 +1,54 @@
+﻿---
+ID: "5e079748-2439-42b4-8a36-44c590eea2af"
+Parent: "2c8e5f42-7c29-44da-95a9-d18ed669db07"
+Template: "2c8e5f42-7c29-44da-95a9-d18ed669db07"
+Path: /sitecore/templates/User Defined/SitecoreMvp/Base/BasePage/__Standard Values
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{167E1046-C870-4597-914F-55A759B6A167}">
+        <r
+          ds="{65C4CCB0-F677-442E-B89F-6AED833A8B1A}"
+          id="{84DDA9E4-7476-4890-8972-CE1228898C7A}"
+          par=""
+          ph="main"
+          uid="{DCF63082-112D-4F2D-B367-9110065EBF69}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170511T071545Z
+    - ID: "423ae54a-2e67-4ed0-96f8-418cfa7cd46b"
+      Hint: Keywords
+      Value: keyword 1, keyword 2, keyword 3
+    - ID: "457bd37c-e975-4480-8f9e-5273990bf5ed"
+      Hint: OgDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque scelerisque volutpat nibh. Curabitur maximus nulla ipsum, id efficitur orci iaculis sed. Nullam eget finibus libero, a condimentum risus. In vulputate, urna lobortis gravida semper, elit nulla tempor dui, et rhoncus enim ante finibus diam.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "75cd092b-c94f-4577-96a5-14cbbe992dc3"
+      Hint: OgTitle
+      Value: &name
+    - ID: "c3f70fb4-3f89-4af0-9ca2-b8a736c2c29c"
+      Hint: Title
+      Value: $name
+    - ID: "db0f3391-8eb0-4e6f-8f94-e0b5f394c280"
+      Hint: Description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque scelerisque volutpat nibh. Curabitur maximus nulla ipsum, id efficitur orci iaculis sed. Nullam eget finibus libero, a condimentum risus. In vulputate, urna lobortis gravida semper, elit nulla tempor dui, et rhoncus enim ante finibus diam.
+    - ID: "f8ae2a5a-98ea-4c54-8c97-45d91af158bb"
+      Hint: OgImage
+      Value: |
+        <image mediaid="{094AED03-02E7-4868-80CB-19926661FB77}" />

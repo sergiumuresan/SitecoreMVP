@@ -1,0 +1,14 @@
+﻿---
+ID: "11c2badb-fa83-4ad1-8a11-80e8554fe556"
+Parent: "8fa7894a-d600-4c58-b73c-51bbaaa1d98d"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/User Defined/SitecoreMvp/Modules/BodyContent/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170511T105734Z
